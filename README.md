@@ -1,6 +1,6 @@
-# Portfolio Motion Reference
+# Portfolio
 
-David 旧版个人网站的完整实现，用作页面动效、滚动交互与中英文排版的参考。基于 Next.js、React、GSAP、ScrollMagic 和 smooth-scrollbar，保留原有源码、静态资源与 Git 提交历史。
+David 旧版个人网站的完整实现，用作页面动效、滚动交互与中英文排版的参考。基于 Next.js、React、GSAP、ScrollMagic 和 smooth-scrollbar。
 
 ## 看点
 
@@ -15,8 +15,8 @@ David 旧版个人网站的完整实现，用作页面动效、滚动交互与�
 需要 Node.js **22.13+** 和 npm。
 
 ```bash
-git clone https://github.com/CrystalDavid/portfolio-motion-reference.git
-cd portfolio-motion-reference
+git clone https://github.com/CrystalDavid/portfolio.git
+cd portfolio
 npm ci
 npm run dev
 ```
@@ -49,5 +49,3 @@ npm run lint
 npm run build
 npm run test:rendered
 ```
-
-此仓库用于保留与研究旧版设计。原个人站已下架，后续网站内容在 [CrystalDavid.github.io](https://github.com/CrystalDavid/CrystalDavid.github.io) 更新。
