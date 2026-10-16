@@ -15,8 +15,8 @@ David 旧版个人网站的完整实现，用作页面动效、滚动交互与�
 需要 Node.js **22.13+** 和 npm。
 
 ```bash
-git clone https://github.com/CrystalDavid/portfolio.git
-cd portfolio
+git clone https://github.com/CrystalDavid/Portfolio.git
+cd Portfolio
 npm ci
 npm run dev
 ```
